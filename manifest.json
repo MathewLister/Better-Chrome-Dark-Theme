@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "version": "2.6",
+  "name": "better dark theme",
+  "theme": {
+    "colors": {
+      "frame": [30, 30, 30],
+      "toolbar": [48, 48, 51],
+      "ntp_text": [
+        126,
+        126,
+        126
+      ],
+      "ntp_link": [
+        126,
+        126,
+        126
+      ],
+      "ntp_background": [32, 33, 36]
+    }
+  }
+}
